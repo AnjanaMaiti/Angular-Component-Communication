@@ -1,6 +1,8 @@
 {
   "name": "angular-component-communication",
-  "version": "0.0.0",
+  "version": "1.0.1",
+  "author": "Anjana Maiti (anjanamaiti15@gmail.com)",
+  "license": "MIT",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
